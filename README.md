@@ -1,6 +1,5 @@
 - 👋 Hi, I’m HARSH SUHANE
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning DSA,Designing.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me : suhane17.harsh@gmail.com
 
